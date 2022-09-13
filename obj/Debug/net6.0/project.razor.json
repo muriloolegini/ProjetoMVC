@@ -16338,8 +16338,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\muril\\OneDrive\\Downloads\\code\\C#\\MVC\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contato\\Detalhes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\muril\\OneDrive\\Downloads\\code\\C#\\MVC\\ProjetoMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\muril\\OneDrive\\Downloads\\code\\C#\\MVC\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
       "FileKind": "mvc"
     },
     {
