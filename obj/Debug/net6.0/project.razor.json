@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\muril\\OneDrive\\Downloads\\code\\C#\\MVC\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+      "TargetPath": "Views\\Contato\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\muril\\OneDrive\\Downloads\\code\\C#\\MVC\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
